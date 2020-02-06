@@ -8,6 +8,6 @@ My name is CJ Ricciardi.  After ten 15 years in the rat race I took some time fo
 
 ### When I"m not coding:
 
-*Jiu Jitsu Blue belt
-*Husband to the best wife ever, Emily Ortlieb
-*Iron Distance Triathlon finisher
+  * Jiu Jitsu Blue belt
+  * Husband to the best wife ever, Emily Ortlieb
+  * Iron Distance Triathlon finisher
