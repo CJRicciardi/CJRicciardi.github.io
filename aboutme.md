@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Introduction to CJ Ricciardi
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is CJ Ricciardi.  After ten 15 years in the rat race I took some time for reflection, and realized I was not enjoying much about working other than the money.  So I've decided to start a career in data science so I can spend most of my time working on my passion rather than my bank account.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### When I"m not coding:
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+*Jiu Jitsu Blue belt
+*Husband to the best wife ever, Emily Ortlieb
+*Iron Distance Triathlon finisher
