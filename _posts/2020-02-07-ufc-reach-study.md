@@ -34,3 +34,4 @@ The 7.5” reach advantage that Jones possesses for Saturday night is not the gr
 
 [Huge thank you to Rajeev Warrier for providing the raw data!](https://www.kaggle.com/rajeevw/ufcdata)
 
+[For my fellow data scientists view the raw notebook here.](https://colab.research.google.com/drive/1-hagV30aqImR7O9ocydaXvsYRv7ItaJ_)
