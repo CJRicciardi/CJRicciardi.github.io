@@ -26,7 +26,7 @@ Lastly with **leg kicks** the idea is that you take away your opponents mobility
 
 So what is the strategy?  On striking stat after striking stat the numbers indicate a more cautious fight by the winner with a reach disadvantage.  As you can see below, the biggest difference is how they win the fight.  
 
-![Win By Bar Chart](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/win_by_barh.png)
+<p align="center"> ![Win By Bar Chart](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/win_by_barh.png)
 
 When the winner has a significant strike disadvantage the biggest takeaway is that the most likely means of winning reverses from the average fight and it’s a significant reversal.  When the fighter has a significant reach disadvantage they may not strike as much, but they make the strikes that land count.  
 
