@@ -32,3 +32,5 @@ When the winner has a significant strike disadvantage the biggest takeaway is th
 
 The 7.5” reach advantage that Jones possesses for Saturday night is not the greatest reach advantage, but it is an outlier.  The average reach advantage for a winner in a UFC bout according to our stats is a quarter of an inch.  64% of fights see a winner with between a 3” disadvantage and a 3.6” advantage.  2% of fights see a winner overcome between a 6.3” and 9.6” reach disadvantage .  So Mr. Reyes when you get in the cage this weekend with Jon Jones, fight carefully, pick your punches, and make them count.  Just like pettis did to Wonderboy and just like you have done many times before aim precisely at the button and make the shot count when you get the chin.
 
+[Huge thank you to Rajeev Warrier for providing the raw data!](https://www.kaggle.com/rajeevw/ufcdata)
+
