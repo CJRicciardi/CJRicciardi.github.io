@@ -16,7 +16,7 @@ Let’s look back at the stats to see what athletes have done to overcome this d
 
 With **more combinations** the idea is simple, if you can’t reach your opponent as well you need to throw combinations so the first strike or two will set up the following strikes that land.  If this is the case we’d expect to see a higher total strike count  for fighters with a shorter reach.  
 
-![Strikes Attempted Scatter Plot](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/w_tot_str_scatter.png)
+![Strikes Attempted Scatter Plot](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/w_tot_str_scatter.png?raw=true)
 
 As you can see, winners with a reach disadvantage do not throw more strikes. In fact they throw fewer strikes.  In the average bout the winner throws 115 strikes; when the winner has a significant reach disadvantage that number drops by 21 fewer strikes, the winners only throw 94 strikes on average.  So clearly more combinations is not the strategy to go with.
 
@@ -26,7 +26,7 @@ Lastly with **leg kicks** the idea is that you take away your opponents mobility
 
 So what is the strategy?  On striking stat after striking stat the numbers indicate a more cautious fight by the winner with a reach disadvantage.  As you can see below, the biggest difference is how they win the fight.  
 
-![Win By Bar Chart](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/win_by_barh.png)
+![Win By Bar Chart](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/win_by_barh.png?raw=true)
 
 When the winner has a significant strike disadvantage the biggest takeaway is that the most likely means of winning reverses from the average fight and it’s a significant reversal.  When the fighter has a significant reach disadvantage they may not strike as much, but they make the strikes that land count.  
 
