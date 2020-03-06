@@ -5,7 +5,7 @@ title: Kenosha, WI Real Estate Valuation Models
 
 ![Kenosha County Midwest Map](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/Kenosha%20County%20midwest%20map.png?raw=True)
 
-For my second project I decided to call on my former career, Real Estate for inspiration, and see if we can predict home sale prices.  The data set used includes single-family home sales from April 2011 – February 2020 in Sommers, Pleasant Prairie and Kenosha, WI.  These are the three municipalities that lie predominantly east of I-95 in Kenosha County; they are so intermingled geographically that most do not make much distinction between the three.  
+For my second project I decided to call on my former career, Real Estate for inspiration, and see if we can predict home sale prices.  The data set used includes single-family home sales from April 2011 – February 2020 in Sommers, Pleasant Prairie and Kenosha, WI.  (The data set considers The Village and Town of Somers to be the same municipality.) These are the three municipalities that lie predominantly east of I-95 in Kenosha County; they are so intermingled geographically that most do not make much distinction between the three.  
 
 ![Kenosha County East of Interstate-95 Map](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/kenosha%20county%20map.png?raw=True)
 
