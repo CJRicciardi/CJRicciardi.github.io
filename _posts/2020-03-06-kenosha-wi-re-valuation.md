@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Kenosha, WI Real Estate Valuation Models
 ---
 
