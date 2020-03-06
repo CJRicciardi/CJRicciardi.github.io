@@ -23,7 +23,12 @@ Three educational, but undeployable models were developed for this project.  The
 | Gradient Boosted Regression |	$32,794 | $41,806 |
 
 Models that miss home pricing by between 22.72% - 25.95% are undeployable.  
+
 Following are a few visuals to help understand what the model used in its predictions.
 
+![Linnear ModelFeature Importance](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/kenosha%20re%20linear%20model%20importances.png?raw=True)
 
+![Random Forest Regression Feature Importance](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/kenosha%20model%20random%20forest%20feature%20importance.png?raw=True)
+
+![Random Forest SQFT & Acreage interaction](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/kenosha%20sf%20and%20acrage%20interact%20graph.png?raw=True)
 
