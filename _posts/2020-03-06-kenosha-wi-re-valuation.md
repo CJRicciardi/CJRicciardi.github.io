@@ -3,7 +3,11 @@ layout: post
 title: Kenosha, WI Real Estate Valuation Models
 ---
 
+![Kenosha County Midwest Map](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/Kenosha%20County%20midwest%20map.png?raw=True)
+
 For my second project I decided to call on my former career, Real Estate for inspiration, and see if we can predict home sale prices.  The data set used includes single-family home sales from April 2011 – February 2020 in Sommers, Pleasant Prairie and Kenosha, WI.  These are the three municipalities that lie predominantly east of I-95 in Kenosha County; they are so intermingled geographically that most do not make much distinction between the three.  
+
+![Kenosha County East of Interstate-95 Map](https://github.com/CJRicciardi/CJRicciardi.github.io/blob/master/img/kenosha%20county%20map.png?raw=True)
 
 The target for the data set was painfully obvious, Sold Price, the sale price of the property.  Since this is a financial model, if deployed, the error in the model does not need to be penalized any more than the actual dollar amount that is incorrect by, thus mean absolute error (MAE) is the metric by which we will judge the models.  The average sale price for the data set is $169,975 which will be the base line prediction for the model.  The MAE when predicting the baseline for all sales is $108,608.  
 
